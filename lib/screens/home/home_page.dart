@@ -43,7 +43,7 @@ class HomePage extends StatelessWidget {
           Text('The Secrets to be Fluent in English',style: TextStyle(fontSize: 20.0,color: Colors.grey),),
           Expanded(
             child: Container(
-              color: Colors.cyan,
+              //color: Colors.cyan,
               child: Column(
                 //mainAxisAlignment: MainAxisAlignment.end,
                 children: [
